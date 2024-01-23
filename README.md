@@ -23,6 +23,7 @@ Welcome to the Django Installer! This simple tool is designed to streamline the 
 
 6. **Completion**
    - Once the script finishes running, Django will be set up on your system. You're all set!
+   - Check version: `python -m django --version`
 
 ## Additional Information
 
